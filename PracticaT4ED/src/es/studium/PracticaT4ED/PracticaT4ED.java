@@ -6,8 +6,16 @@ public class PracticaT4ED {
 
 		System.out.println("Hola Mundo!");
 		
-		//Subida a GitHub
+		
 		//Cambios realizados desde GitHub
+		b = 1;
+		a = 1;
+		c = a + b;
+		
+		if (c != 7) {
+			
+			System.out.println("C es una falacia");
+		}
 	}
 
 }
