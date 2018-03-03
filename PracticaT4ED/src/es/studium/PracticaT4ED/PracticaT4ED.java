@@ -16,6 +16,8 @@ public class PracticaT4ED {
 			
 			System.out.println("C es una falacia");
 		}
+		
+		// Hola
 	}
 
 }
