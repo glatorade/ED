@@ -7,7 +7,7 @@ public class PracticaT4ED {
 		System.out.println("Hola Mundo!");
 		
 		//Subida a GitHub
-		//Cambio realizado desde GitHub
+		//Cambios realizados desde GitHub
 	}
 
 }
